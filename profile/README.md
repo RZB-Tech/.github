@@ -11,7 +11,7 @@
 [![Instagram](https://img.shields.io/badge/rzb.tech-021439?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rzb.tech)
 [![Email](https://img.shields.io/badge/info@rzbtech.uz-021439?style=for-the-badge)](mailto:info@rzbtech.uz)
 
-**🇷🇺 [Русский](#-о-компании)** &nbsp;·&nbsp; **🇬🇧 [English](#-about)**
+**🇷🇺 [Русский](#-о-компании)** &nbsp;·&nbsp; **en [English](#-about)**
 
 </div>
 
